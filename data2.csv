@@ -1,0 +1,11 @@
+,Country,Age,Salary,Purchased
+0,France,44,72000,0
+1,Spain,27,48000,1
+2,Germany,30,54000,0
+3,Spain,38,61000,0
+4,Germany,40,NaN,1
+5,France,35,58000,1
+6,Spain,NaN,52000,0
+7,France,48,79000,1
+8,Germany,50,83000,0
+9,France,37,67000,1
